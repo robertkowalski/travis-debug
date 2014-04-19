@@ -1,0 +1,22 @@
+{
+  "name": "travis-debug",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/robertkowalski/travis-debug.git"
+  },
+  "homepage": "https://github.com/robertkowalski/travis-debug",
+  "keywords": [],
+  "author": "Robert Kowalski <rok@kowalski.gd>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/robertkowalski/travis-debug/issues"
+  }
+}
